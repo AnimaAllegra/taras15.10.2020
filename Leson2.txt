@@ -1,1 +1,2 @@
 Pierwsza linijka (commit 1)
+commit 2
